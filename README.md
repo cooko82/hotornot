@@ -46,5 +46,3 @@ Project Structure
 ├── hotdog_model.h5          # Trained Keras model
 ├── requirements.txt
 └── README.md
-
-
