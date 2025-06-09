@@ -13,14 +13,16 @@ Built using:
 
 Upload a food photo — and let the AI decide!
 
+![Hotdog example](demo/hotdog_correct.jpeg)
+![Hotdog example](demo/hotdog_incorrect.jpeg)
+
 ![demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) <!-- Optional animated gif -->
 
 ---
 
 ## 🛠 How to Run It
-
+``bash
 1. Clone the repo:
-```bash
 git clone https://github.com/yourusername/hotdog-classifier.git
 cd hotdog-classifier
 
