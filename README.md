@@ -13,8 +13,8 @@ Built using:
 
 Upload a food photo — and let the AI decide!
 
-![Hotdog example](demo/hotdog_correct.jpg)
-![Hotdog example](demo/hotdog_incorrect.jpg)
+![Hotdog example](demo/hotdog_correct.jpeg)
+![Hotdog example](demo/hotdog_incorrect.jpeg)
 
 ![demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) <!-- Optional animated gif -->
 
