@@ -21,9 +21,8 @@ Upload a food photo — and let the AI decide!
 ---
 
 ## 🛠 How to Run It
-
+``bash
 1. Clone the repo:
-```bash
 git clone https://github.com/yourusername/hotdog-classifier.git
 cd hotdog-classifier
 
