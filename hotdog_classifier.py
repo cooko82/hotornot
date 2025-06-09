@@ -11,7 +11,7 @@ def classify(img):
     img_array = np.expand_dims(img_array, axis=0)
     
     prediction = model.predict(img_array)[0][0]
-    label = "Hot Dog! 🌭" if prediction < 0.5 else "Not Hot Dog - Silly Billy ❌"
+    label = "Hot Dog! 🌭" if prediction < 0.5 else "Not Hot Dog - You should have gone to specsavers silly Billy ❌"
     #return f"{label} ({prediction:.2f})"
     return f"{label}"
 
