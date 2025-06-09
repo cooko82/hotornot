@@ -34,6 +34,8 @@ python hotdog_classifier.py
 
 Upload fun food pics 
 
+![image](https://github.com/user-attachments/assets/5714a388-bef9-4337-89f9-79cbc2bb36f6)
+![image](https://github.com/user-attachments/assets/058398c2-2f7f-4382-b9fd-2cdda5970a3c)
 
 ----
 
