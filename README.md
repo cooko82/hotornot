@@ -1,5 +1,8 @@
 # 🌭 Hotdog or Not Hotdog Classifier
 
+**deployed run here: https://huggingface.co/spaces/cooko82/hotdog-or-not
+**
+
 A fun and simple machine learning app that tells you whether your food photo is a hot dog... or **not**.
 
 Built using:
